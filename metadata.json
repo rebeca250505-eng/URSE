@@ -1,0 +1,6 @@
+{
+  "name": "URSE | Control de Reactivos Académicos",
+  "description": "Sistema integral de revisión, corrección, sugerencia, creación y auditoría de reactivos académicos para la Universidad Regional del Sureste (URSE).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
